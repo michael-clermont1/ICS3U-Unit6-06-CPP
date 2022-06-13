@@ -142,5 +142,5 @@ main() {
         std::cout << singleUnicode;
         includeComma = true;
     }
-    std::cout << " " << std::endl;
+    std::cout << "\nDone." << std::endl;
 }
